@@ -3,8 +3,8 @@ Clone a high frequency card -- Mifare 1Kb cards (13.56 Mhz)
 
 Initial steps required before the cloning process is initiated:
 
--Download the Arduino IDE \n
--Connect the Arduino micro-controller to the module RC522 using jumper wires (the connection data is mentioned at the initial lines of the code).\n
+-Download the Arduino IDE
+-Connect the Arduino micro-controller to the module RC522 using jumper wires (the connection data is mentioned at the initial lines of the code).
 -Connect the arduino to the machine.
 -Import the library MFRC522.h to the arduino IDE. (https://github.com/miguelbalboa/rfid/blob/master/MFRC522.h)
 
