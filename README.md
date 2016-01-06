@@ -1,7 +1,7 @@
-### RFID_Cloner
+# RFID_Cloner
 ##Clone a high frequency card -- Mifare 1Kb cards (13.56 Mhz)
 
-#Initial steps required before the cloning process is initiated:
+###Initial steps required before the cloning process is initiated:
 
 -Download the Arduino IDE
 
@@ -11,7 +11,7 @@
 
 -Import the library MFRC522.h to the arduino IDE. (https://github.com/miguelbalboa/rfid/blob/master/MFRC522.h)
 
-#Steps required to clone to the card:
+###Steps required to clone to the card:
 
 -Let's say that card A is the primary card and a clone has to be made to the Card B.
 
